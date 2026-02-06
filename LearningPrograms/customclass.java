@@ -12,12 +12,12 @@ class employee{
 public class customclass {
     public static void main(String[] args) {
         System.out.println("this is our custom class");
-        employee harry= new employee();
+        employee Akriti= new employee();
         employee akriti = new employee();
 
         //setting attributes
-        harry.id= 12;
-        harry.name="code with harry";
+        Akriti.id= 12;
+        Akriti.name="code with Akriti";
         akriti.id=21;
         akriti.name="akriti pandey";
 
@@ -25,7 +25,7 @@ public class customclass {
 
 
         //printing the attributes
-        harry.printdetails();
+        Akriti.printdetails();
         akriti.printdetails();
 
 
