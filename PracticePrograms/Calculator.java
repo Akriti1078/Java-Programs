@@ -8,6 +8,7 @@ public class Calculator {
         System.out.println("Welcome to Calculator, What do you want to calculate: ")
 
 
-                
+
+
     }
 }
